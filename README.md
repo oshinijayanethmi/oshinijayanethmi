@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oshini Jayanethmi</h1>
 <h3 align="center">A passionate Java developer from Sri Lanka</h3>
 
+<p align="center">
+  <img alt="Coder GIF" height="400" width="600" src="anna-havrylyukh-.git" />
+</p>
+<br>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshinijayanethmi&label=Profile%20views&color=0e75b6&style=flat" alt="oshinijayanethmi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
