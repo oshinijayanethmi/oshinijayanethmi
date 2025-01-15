@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java developer from Sri Lanka</h3>
 
 <p align="center">
-  <img alt="Coder GIF" height="400" width="600" src="anna-havrylyukh-.git" />
+  <img alt="Coder GIF" height="400" width="600" src="anna-havrylyukh-.gif" />
 </p>
 <br>
 
