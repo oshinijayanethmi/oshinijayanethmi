@@ -36,4 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshinijayanethmi&show_icons=true&locale=en" alt="oshinijayanethmi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshinijayanethmi&" alt="oshinijayanethmi" /></p>
